@@ -2,7 +2,7 @@
 
 Copyright 2007 Don E. Llopis
 
-A Python + Pygame based remake of the Atari arcade version of Millipede.
+A Python 2.x + Pygame based remake of the Atari arcade version of Millipede.
 
 ![Alt text](https://github.com/llopisdon/monsters_and_mushrooms/blob/master/screenshot.png?raw=true "Screenshot")
 
