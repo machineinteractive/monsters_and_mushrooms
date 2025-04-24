@@ -1,6 +1,6 @@
 # Monsters and Mushrooms
 
-Copywrite 2007 Donald E. Llopis (llopis.don@gmail.com)
+Copyright 2007 Don E. Llopis
 
 A Python + Pygame based remake of the Atari arcade version of Millipede.
 
@@ -10,14 +10,12 @@ A Python + Pygame based remake of the Atari arcade version of Millipede.
 
 Move Player - Arrow Keys
 
-Fire Missle - Left-Cntrl, Space
+Fire Missile - Left-Cntrl, Space
 
-Exit Game   - ESC
+Exit Game - ESC
 
 # Credits:
 
-Code and Graphics: Don E. Llopis (llopis.don@gmail.com)
+Code and Graphics: Don E. Llopis
 
-Sound: Ricardo de Luna (kaltar@kaltar.org)
-
-/* vim:set et sw=4 ts=4 et tw=70 sts=4: */
+Sound: Ricardo de Luna

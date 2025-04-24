@@ -28,14 +28,14 @@ import random
 import sys
 
 """
-millipede dimensions -- from atari acrcade version
+millipede dimensions -- from atari arcade version
 
 total screen area 240x256
 
 score area        (0,0)   - (239,7) 8 pixels
 arena area        (0,8)   - (239,247) 240 pixels
 player area       (0,200) - (239,247) 48 pixels
-bottom score area (0,248) - (239,255) 8 pixles
+bottom score area (0,248) - (239,255) 8 pixels
 
 this version
 
@@ -48,7 +48,7 @@ mushroom grid 30x29
 mushroom grid 30x35
 mushroom 8x8
 player 7x7
-player-missiler 5x7
+player-missile 5x7
 ddt 16x8
 1 millipede 8x8
 
@@ -1393,7 +1393,7 @@ class Player(pygame.sprite.Sprite):
 
 
 class PlayerMissile(pygame.sprite.Sprite):
-    """The Player Missle."""
+    """The Player Missile."""
 
     WIDTH = 9
     HEIGHT = 11
@@ -2234,7 +2234,7 @@ class MushroomField:
 
 
     def missile_collision(self, missile_rect):
-        """check for Player Missle vs Mushroom collision."""
+        """check for Player Missile vs Mushroom collision."""
 
         """
         this code needs to handle cases where there is
